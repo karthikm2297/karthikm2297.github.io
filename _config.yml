@@ -1,0 +1,12 @@
+title: Karthik Mahesh's experiments
+author: Karthik Mahesh
+email: karthikm2297@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is a site I created to show off! I'm an Aerospace engineering student having harboured a fascination for flight since I was five years old.I also love tinkering, be it with code, machines, mathematics or music. You can see my CV, and lots of random projects on this site. Thanks for stopping by :)
+# social links
+twitter_username: your-twitter-handle
+github_username:  karthikm2297
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: minima
